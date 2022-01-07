@@ -39,7 +39,7 @@ const bandMenbers = [
     image: 'assets/images/odun.jpeg',
     job: 'Employed',
     name: 'Odun',
-    decription: `Music minister`,
+    decription: 'Music minister',
     instrument: 'Singer',
   },
   {
@@ -53,12 +53,10 @@ const bandMenbers = [
     image: 'assets/images/ayo.jpg',
     job: 'Employed',
     name: 'Ayodele Samuel',
-    decription: `A minister with saxophone`,
+    decription: 'A minister with saxophone',
     instrument: 'Saxophone',
   },
 ];
-
-
 
 const createContent = () => {
   for (let i = 0; i < bandMenbers.length; i += 1) {
@@ -83,7 +81,7 @@ const createContent = () => {
       </ul>
     `;
   }
-  
+
   artistContainer.innerHTML = content;
 };
 window.onload = () => {
