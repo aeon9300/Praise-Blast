@@ -296,7 +296,7 @@ header nav a {
     cursor: pointer;
   }
 
-  .menu-container.isactive {
+  .menu-container.isActive {
     left: 0;
   }
 
