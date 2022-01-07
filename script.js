@@ -83,11 +83,7 @@ const createContent = () => {
       </ul>
     `;
   }
-  content += `
-  <div class="d-flex a-btn">
-    <button type="button" id="theBtn" class="exp-btn program-btn">See more</button>
-  </div>
-  `;
+  
   artistContainer.innerHTML = content;
 };
 window.onload = () => {
