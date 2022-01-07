@@ -15,6 +15,9 @@
 ## Live Demo
 * [Demo](https://aeon9300.github.io/Praise-Blast/)
 
+## Loom Video Description of Project (5mins)
+* [Loom Video](https://www.loom.com/share/5719e7ee23554415935b3f3335d03474)
+
 ## Procedure to clone project
 - open your terminal
 - type git clone https://github.com/aeon9300/Praise-Blast.git
