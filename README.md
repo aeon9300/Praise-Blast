@@ -12,6 +12,9 @@
 - CSS
 - JS
 
+## Live Demo
+* [Demo](https://aeon9300.github.io/Praise-Blast/)
+
 ## Procedure to clone project
 - open your terminal
 - type git clone https://github.com/aeon9300/Praise-Blast.git
